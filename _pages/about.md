@@ -26,6 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+In 2021, I obtained a PhD in Mining and Metallurgical Engineering from the WA School of Mines, Curtin University (Australia), followed by a three-year postdoctoral training. My research focuses on the extraction, separation, and recovery of critical, base, and precious metals from both natural mineral resources and anthropogenic solid waste streams.
+
+Driven by the global imperatives of energy transition and decarbonization, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of non-toxic/low-toxicity reagents, low energy consumption, shortened process routes, minimal waste generation, and economic feasibility. This involves two key innovation directions:
+
+Upgrading traditional inorganic acid hydrometallurgy systems through method and process optimisation;
+Developing next-generation green hydrometallurgical approaches that integrate cutting-edge sustainable technologies.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
